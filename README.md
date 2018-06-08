@@ -7,5 +7,12 @@
 ## ターミナルに打ったコマンド
 
 ```
-【この行を削除して、ターミナルに打ったコマンドをコピペする】
+taguchierinanoMacBook-puro:ruby-chap1-intro taguchierina$ ruby helloruby.rb
+Hello,Ruby.
+taguchierinanoMacBook-puro:ruby-chap1-intro taguchierina$ ruby helloruby.rb
+Hello,Ruby.
+Hello,Ruby.
+taguchierinanoMacBook-puro:ruby-chap1-intro taguchierina$ ruby helloruby.rb
+Hello,Ruby.
+Hello,RUBY!
 ```
